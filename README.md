@@ -1,7 +1,7 @@
 <image align="center" alt="Flutter" width=100% src="https://www.creative-tim.com/blog/content/images/wordpress/2019/09/cover-0408-FlutterMessangerDemo-Luke_Newsletter-30d5a65064b44f0ef56a801d4811964a.png"/>
 
 <h1 align="center">Hi 👋, I'm Quang Duong</h1>
-<h3 align="center">A mobile developer from Ho Chi Minh City</h3>
+<h3 align="center">A Mobile Developer from Ho Chi Minh City</h3>
 <image align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnUxOHUyaXo0azd0NjN4azI2dGs0cnZ3cGFrMWl4dmpuMnYyYXk5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anhquangtech&label=Profile%20views&color=0e75b6&style=flat" alt="anhquangtech" /> </p>
